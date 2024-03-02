@@ -1,24 +1,64 @@
-<h1 align="center">Hi 👋, I'm Tariqul IsIam Hridoy</h1>
-<h3 align="center">Experienced Private Investigator, OSINT Expert, and Detective</h3>
+# About Me
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tariqullslamhridoy&label=Profile%20views&color=0e75b6&style=flat" alt="tariqullslamhridoy" /> </p>
+Hello! 👋 I'm Tariqul IsIam Hridoy, a seasoned professional with extensive experience in investigative work, specializing in Open-Source Intelligence (OSINT) and detective work.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tariqullslamhridoy" alt="tariqullslamhridoy" /></a> </p>
+## Private Investigator
 
-- 🔭 I’m currently working on [Cipher Shadow](https://ciphershadow.com/)
+With years of experience as a Private Investigator, I've handled a wide range of cases spanning from corporate espionage to personal background checks. My expertise lies in conducting discreet and thorough investigations, gathering evidence, and delivering actionable insights to clients.
 
-- 🌱 I’m currently learning **Private Investigator, OSINT and Detective**
+## OSINT Expert
 
-- 📝 I regularly write articles on [https://medium.com/@TariqullslamHridoy](https://medium.com/@TariqullslamHridoy)
+As an OSINT (Open-Source Intelligence) Expert, I excel in harnessing publicly available information from various online and offline sources to uncover valuable insights and patterns. From social media analysis to data mining, I leverage advanced techniques to extract relevant intelligence and support investigative efforts.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/hridoy.private.investigator.osint" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hridoy.private.investigator.osint" height="30" width="40" /></a>
-</p>
+## Detective
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+Driven by a passion for solving mysteries, I've honed my skills as a Detective adept at piecing together clues, analyzing data trails, and connecting the dots to unravel complex cases. Whether it's tracking digital footprints or conducting stakeouts, I thrive on the challenge of solving puzzles and bringing clarity to the unknown.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tariqullslamhridoy&show_icons=true&locale=en&layout=compact" alt="tariqullslamhridoy" /></p>
+## Let's Connect!
 
-Support 🙏
+I'm always eager to collaborate, share insights, and exchange ideas with fellow investigators, cybersecurity enthusiasts, and anyone passionate about making sense of the digital world. Feel free to reach out, and let's embark on an investigative journey together!
+
+# Skills
+
+## Investigative Skills
+
+- Evidence collection and preservation
+- Surveillance techniques
+- Interviewing and interrogation
+- Case management and documentation
+- Background checks and due diligence
+- Forensic analysis
+
+## Open-Source Intelligence (OSINT)
+
+- Advanced search techniques
+- Social media analysis
+- Data mining and scraping
+- Geospatial analysis
+- Online persona identification
+- Deep and dark web exploration
+
+## Technical Skills
+
+- Python scripting for automation and data analysis
+- Data visualization using tools like Matplotlib and Seaborn
+- Database querying and management (SQL)
+- Digital forensics tools and techniques
+- Cybersecurity fundamentals
+- Network analysis and traffic monitoring
+
+## Communication and Collaboration
+
+- Report writing and presentation skills
+- Client communication and relationship management
+- Collaboration tools such as Git and GitHub
+- Team coordination and leadership
+- Public speaking and training
+
+## Problem-Solving and Analytical Thinking
+
+- Critical thinking and logical reasoning
+- Creative problem-solving
+- Risk assessment and mitigation
+- Attention to detail and pattern recognition
+- Adaptable to changing investigative landscapes
