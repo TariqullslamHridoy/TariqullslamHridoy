@@ -19,7 +19,7 @@ I’m passionate about cybersecurity, protecting businesses from threats, and le
 - **Threat Hunting**
 - **Penetration Testing**
 
-I offer professional services on **Fiverr Pro** as **@detective404** and run the **CipherShadowIT** agency, providing IT support and security solutions for businesses of all sizes. Whether it's securing your website, recovering from a hack, or conducting in-depth OSINT investigations, I’ve got you covered.
+I offer professional services on **Fiverr Pro** as **@detective404** and run the **HridoyLTD** agency, providing IT support and security solutions for businesses of all sizes. Whether it's securing your website, recovering from a hack, or conducting in-depth OSINT investigations, I’ve got you covered.
 
 
 ## Certifications
