@@ -1,26 +1,52 @@
-Hello! 👋 I'm [**Tariqul IsIam Hridoy**](https://medium.com/@TariqullslamHridoy),
-a seasoned professional with **extensive experience in investigative work**,specializing in **Open-Source Intelligence (OSINT)** and **detective work**
+# Md. Tariqul Islam - Cyber Security Specialist & OSINT Expert
 
-[**Private Investigator**](https://www.facebook.com/groups/hridoy.private.investigator.osint)
+## About Me
 
-**With 6years of experience as a Private Investigator**,
- I've handled a wide range of cases spanning from corporate espionage to personal **background checks**.
-My expertise lies in conducting discreet and thorough **investigations**, **gathering evidence** and delivering actionable insights to clients.
+Hello! I'm **Md. Tariqul Islam**, a Cyber Security Specialist, Ethical Hacker, and OSINT Expert with 7+ years of experience in Cyber Security, Open Source Intelligence (OSINT), and Digital Forensics. I've worked with top organizations, including the **FBI** (OSINT Officer, FD-B27140), and have led security initiatives for companies worldwide.
 
-[**OSINT Expert**](https://www.facebook.com/groups/hridoy.private.investigator.osint)
+I’m passionate about cybersecurity, protecting businesses from threats, and leveraging OSINT to uncover actionable insights. I believe in continuous learning and sharing knowledge with others through platforms like **YouTube**, **Patreon**, and **Telegram**.
 
-As an **OSINT (Open-Source Intelligence) Expert**,I excel in harnessing **publicly available information** from various online and 
-offline sources to uncover valuable insights and patterns. 
-**From social media analysis to data mining,** I leverage **advanced techniques** to extract relevant intelligence and support **investigative efforts**.
+## What I Do
 
-[**Detective**](https://www.facebook.com/groups/hridoy.private.investigator.osint)
-Driven by a passion for solving mysteries, I've honed **my skills** as a **Detective** adept at piecing together clues, **analyzing data trails,** and connecting the dots to unravel complex cases. Whether it's **tracking digital footprints** or conducting stakeouts,
-I thrive on the challenge of solving puzzles and bringing clarity to the unknown.
+- **Ethical Hacking**
+- **Digital Forensics**
+- **Open Source Intelligence (OSINT)**
+- **Malware Analysis**
+- **Cybersecurity Risk Management**
+- **Vulnerability Assessments**
+- **Incident Response**
+- **Cloud Security**
+- **Threat Hunting**
+- **Penetration Testing**
 
-**Let's Connect!**
-I'm always eager to collaborate,[**share**](https://www.facebook.com/groups/hridoy.private.investigator.osint) **insights**, and exchange ideas with fellow **investigators**, **cybersecurity enthusiasts**, and anyone passionate about making sense of the digital world. Feel free to reach out, and let's embark on an **investigative journey together!**
+I offer professional services on **Fiverr Pro** as **@detective404** and run the **CipherShadowIT** agency, providing IT support and security solutions for businesses of all sizes. Whether it's securing your website, recovering from a hack, or conducting in-depth OSINT investigations, I’ve got you covered.
 
-- 🔭 I’m currently working on [**Cipher Shadow**](https://ciphershadow.com)
+
+## Certifications
+
+- **Certified Ethical Hacker (CEH)** - EC-Council
+- **Digital Forensic** - EC-Council
+- **Registered OSINT Analyst** - International Anti Crime Academy
+- **Private Detective** - International Anti Crime Academy
+- **FDA Certified** - International Anti Crime Academy
+- **Google Cybersecurity Professional Certificate**
+- **IBM Data Analysis Certificate**
+- **IBM Cybersecurity Tools & Cyberattacks Certificate**
+- **SEC497 Practical Open-Source Intelligence (OSINT)** - GOSI
+
+## Let's Connect
+
+- **Fiverr**: [@detective404](https://www.fiverr.com/s/990bEwE)
+- **LinkedIn**: [Tariqul Islam](https://www.linkedin.com/in/Tariqul404)
+- **YouTube**: [Learn with OSINT](https://www.youtube.com/@learnwithOSINT)
+- **Patreon**: [Tariqul911](https://www.patreon.com/Tariqul911)
+- **GitHub**: [TariqullslamHridoy](https://github.com/TariqullslamHridoy)
+- **Telegram**: [Learn with OSINT](https://t.me/learnwithOSINT)
+
+---
+
+### Disclaimer
+All information provided in this repository is for educational purposes only. Please ensure you follow all relevant legal guidelines and best practices in the cybersecurity field.
 
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
