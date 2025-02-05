@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello! I'm **Md. Tariqul Islam**, a Cyber Security Specialist, Ethical Hacker, and OSINT Expert with 7+ years of experience in Cyber Security, Open Source Intelligence (OSINT), and Digital Forensics. I've worked with top organizations, including the **FBI** (OSINT Officer, FD-B27140), and have led security initiatives for companies worldwide.
+Hello! I'm **Md. Tariqul Islam**, a Cyber Security Specialist, Ethical Hacker, and OSINT Expert with 7+ years of experience in Cyber Security, Open Source Intelligence (OSINT).
 
 I’m passionate about cybersecurity, protecting businesses from threats, and leveraging OSINT to uncover actionable insights. I believe in continuous learning and sharing knowledge with others through platforms like **YouTube**, **Patreon**, and **Telegram**.
 
@@ -19,7 +19,7 @@ I’m passionate about cybersecurity, protecting businesses from threats, and le
 - **Threat Hunting**
 - **Penetration Testing**
 
-I offer professional services on **Fiverr Pro** as **@detective404** and run the **HridoyLTD** agency, providing IT support and security solutions for businesses of all sizes. Whether it's securing your website, recovering from a hack, or conducting in-depth OSINT investigations, I’ve got you covered.
+I offer professional services on **Fiverr Pro** as **@detective404** and  providing IT support and security solutions for businesses of all sizes. Whether it's securing your website, recovering from a hack, or conducting in-depth OSINT investigations, I’ve got you covered.
 
 
 ## Certifications
@@ -36,14 +36,11 @@ I offer professional services on **Fiverr Pro** as **@detective404** and run the
 
 ## Let's Connect
 
-- **Fiverr**: [@detective404](https://www.fiverr.com/s/990bEwE)
-- **LinkedIn**: [Tariqul Islam](https://www.linkedin.com/in/Tariqul404)
-- **YouTube**: [Learn with OSINT](https://www.youtube.com/@learnwithOSINT)
-- **Patreon**: [Tariqul911](https://www.patreon.com/Tariqul911)
-- **GitHub**: [TariqullslamHridoy](https://github.com/TariqullslamHridoy)
-- **Telegram**: [Learn with OSINT](https://t.me/learnwithOSINT)
+- **Fiverr**: [@Hridoy]
+- **LinkedIn**: [Tariqul Islam](https://linkedin.com/in/tariqulisiamhridoyosint)
+- **Patreon**: [Tariqul911]
 
----
+
 
 ### Disclaimer
 All information provided in this repository is for educational purposes only. Please ensure you follow all relevant legal guidelines and best practices in the cybersecurity field.
