@@ -22,18 +22,6 @@ I’m passionate about cybersecurity, protecting businesses from threats, and le
 I offer professional services on **Fiverr Pro** as **@detective404** and  providing IT support and security solutions for businesses of all sizes. Whether it's securing your website, recovering from a hack, or conducting in-depth OSINT investigations, I’ve got you covered.
 
 
-## Certifications
-
-- **Certified Ethical Hacker (CEH)** - EC-Council
-- **Digital Forensic** - EC-Council
-- **Registered OSINT Analyst** - International Anti Crime Academy
-- **Private Detective** - International Anti Crime Academy
-- **FDA Certified** - International Anti Crime Academy
-- **Google Cybersecurity Professional Certificate**
-- **IBM Data Analysis Certificate**
-- **IBM Cybersecurity Tools & Cyberattacks Certificate**
-- **SEC497 Practical Open-Source Intelligence (OSINT)** - GOSI
-
 ## Let's Connect
 
 - **Fiverr**: [@Hridoy]
