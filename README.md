@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello! I'm **Md. Tariqul Islam**, a Cyber Security Specialist, Ethical Hacker, and OSINT Expert with 7+ years of experience in Cyber Security, Open Source Intelligence (OSINT).
+Hello! I'm **Md. Tariqul Islam**, a Cyber Security Specialist, Ethical Hacker, and OSINT Expert with  experience in Cyber Security, Open Source Intelligence (OSINT).
 
 I’m passionate about cybersecurity, protecting businesses from threats, and leveraging OSINT to uncover actionable insights. I believe in continuous learning and sharing knowledge with others through platforms like **YouTube**, **Patreon**, and **Telegram**.
 
@@ -24,9 +24,8 @@ I offer professional services on **Fiverr Pro** as **@detective404** and  provid
 
 ## Let's Connect
 
-- **Fiverr**: [@Hridoy]
-- **LinkedIn**: [Tariqul Islam](https://linkedin.com/in/tariqulisiamhridoyosint)
-- **Patreon**: [Tariqul911]
+- **LinkedIn**: [Tariqul Islam](https://linkedin.com/in/Tariqul911)
+- **Telegram**: [[Tariqul911](https://t.me/Tariqul911)]
 
 
 
